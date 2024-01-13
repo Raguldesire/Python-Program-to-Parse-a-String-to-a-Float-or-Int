@@ -1,0 +1,2 @@
+my_string = "123"
+int(my_string)
